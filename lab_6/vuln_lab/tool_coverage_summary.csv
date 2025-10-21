@@ -1,0 +1,2 @@
+Tool_name,Unique_CWEs,Total_CWEs,CWE_Top_25_Found,Coverage_%
+Eslint,['CWE-400' 'CWE-915' 'CWE-Other'],3,0,0.0

@@ -1,0 +1,394 @@
+File,ESLint Rule,Mapped CWE,Severity,Message
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'process' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,security/detect-non-literal-fs-filename,CWE-Other,Warning,"Found readFileSync from package ""fs"" with non literal argument at index 0"
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,security/detect-non-literal-fs-filename,CWE-Other,Warning,"Found readFileSync from package ""fs"" with non literal argument at index 0"
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,security/detect-non-literal-fs-filename,CWE-Other,Warning,"Found readFileSync from package ""fs"" with non literal argument at index 0"
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'process' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/scripts/build.js,no-undef,CWE-Other,Error,'TextEncoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'localStorage' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/login/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'localStorage' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'FormData' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'FormData' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'closeResetPass' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'closeQR' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'darkModeToggle' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'localStorage' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'downloadWarpConfigs' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'subURL' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'dlURL' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'Blob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'exportSettings' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'btoa' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'importSettings' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'uploadSettings' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'openQR' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'navigator' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'updateWarpConfigs' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'confirm' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'handleProtocolChange' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'handlePortChange' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'resetSettings' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'confirm' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'FormData' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Variable Assigned to Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'error' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Function Call Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Function Call Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Function Call Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Function Call Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,security/detect-object-injection,CWE-915,Warning,Function Call Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'logout' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-unused-vars,CWE-Other,Error,'resetPassword' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'btoa' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'confirm' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/panel/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'localStorage' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'window' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'document' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'navigator' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'alert' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/assets/secrets/script.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,security/detect-possible-timing-attacks,CWE-Other,Warning,"Potential timing attack, left side: true"
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'TextEncoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'TextEncoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/auth.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-unused-vars,CWE-Other,Error,'error' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'__ERROR_HTML_CONTENT__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-fallthrough,CWE-Other,Error,Expected a 'break' statement before 'case'.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-fallthrough,CWE-Other,Error,Expected a 'break' statement before 'case'.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-fallthrough,CWE-Other,Error,Expected a 'break' statement before 'case'.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-fallthrough,CWE-Other,Error,Expected a 'break' statement before 'default'.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Request' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'__ICON__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'__PANEL_HTML_CONTENT__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'__LOGIN_HTML_CONTENT__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'__SECRETS_HTML_CONTENT__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/handlers.js,no-undef,CWE-Other,Error,'TextDecoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'URLSearchParams' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/common/init.js,no-undef,CWE-Other,Error,'__VERSION__' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/clash.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/sing-box.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'btoa' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'btoa' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'TextEncoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,security/detect-unsafe-regex,CWE-400,Warning,Unsafe Regular Expression
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/utils.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'structuredClone' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/configs/xray.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,security/detect-object-injection,CWE-915,Warning,Variable Assigned to Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'URL' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'URLSearchParams' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-case-declarations,CWE-Other,Error,Unexpected lexical declaration in case block.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'TextDecoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-case-declarations,CWE-Other,Error,Unexpected lexical declaration in case block.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/kv.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/warp.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/warp.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/warp.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/warp.js,no-undef,CWE-Other,Error,'crypto' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/warp.js,no-undef,CWE-Other,Error,'btoa' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-unused-vars,CWE-Other,Error,'error' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'err' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'WritableStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'Blob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'ReadableStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-unused-vars,CWE-Other,Error,'controller' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'atob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/common.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'WebSocketPair' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'WritableStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-unused-vars,CWE-Other,Error,'controller' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'TextDecoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,security/detect-possible-timing-attacks,CWE-Other,Warning,"Potential timing attack, left side: true"
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,no-undef,CWE-Other,Error,'TextDecoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/trojan.js,security/detect-object-injection,CWE-915,Warning,Generic Object Injection Sink
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'WebSocketPair' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'console' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'WritableStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'Response' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'TextDecoder' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'TransformStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-unused-vars,CWE-Other,Error,'controller' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-unused-vars,CWE-Other,Error,'controller' is defined but never used.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'WritableStream' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'fetch' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'Blob' is not defined.
+/home/set-iitgn-vm/Desktop/Stt_lab2/vuln_lab/BPB-Worker-Panel/src/protocols/websocket/vless.js,no-undef,CWE-Other,Error,'Blob' is not defined.

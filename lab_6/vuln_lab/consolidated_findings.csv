@@ -1,0 +1,4 @@
+Project_name,Tool_name,CWE_ID,Number_of_Findings,Is_In_CWE_Top_25?
+cwe,Eslint,CWE-400,12,No
+cwe,Eslint,CWE-915,37,No
+cwe,Eslint,CWE-Other,344,No
